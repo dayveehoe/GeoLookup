@@ -1,0 +1,19 @@
+{
+  "name": "geolookup",
+  "version": "1.0.0",
+  "description": "Look Up Latitude & Longitude from list of given addresses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fast-csv": "1.0.0",
+    "request": "2.x.x"
+  },
+  "keywords": [
+    "geo",
+    "lookup"
+  ],
+  "author": "NPM geolookup",
+  "license": "ISC"
+}

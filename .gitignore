@@ -1,0 +1,4 @@
+APIKEY
+*.csv
+*.tsv
+node_modules
